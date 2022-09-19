@@ -1,4 +1,4 @@
-const serverloc = "http://"+window.location.hostname+":8080/simpra_v3.2";
+const serverloc = "http://"+window.location.hostname;
 
 jQuery.ajaxSetup({
     cache: false
