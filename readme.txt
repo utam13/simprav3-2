@@ -9,7 +9,7 @@ Aplikasi pelaporan dan rekapitulasi tender pada Bagian Pengadaan Barang/Jasa Sek
 Release Information
 *******************
 
-saat ini pada versi 3.2 yang
+saat ini pada versi 3.2
 
 
 *******************
